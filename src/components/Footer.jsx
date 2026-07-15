@@ -11,16 +11,16 @@ const Footer = () => {
         </p>
         
         <div className="social-links">
-          <a href="#" className="social-icon" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/juan-carlos-alvarado-rucobo-277b04209/" className="social-icon" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
             <User size={28} />
           </a>
           <a href="#" className="social-icon" aria-label="Upwork" target="_blank" rel="noopener noreferrer">
             <Briefcase size={28} />
           </a>
-          <a href="#" className="social-icon" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/JuanCarlosAlvaradoRucobo" className="social-icon" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
             <GitBranch size={28} />
           </a>
-          <a href="mailto:tuemail@ejemplo.com" className="social-icon" aria-label="Email">
+          <a href="mailto:rucoboalvarado@gmail.com" className="social-icon" aria-label="Email">
             <Mail size={28} />
           </a>
         </div>
