@@ -11,7 +11,7 @@ const CVSection = () => {
         </p>
         <div className="cv-actions">
           {/* TODO: Place the actual cv.pdf in the public folder and update href */}
-          <a href="/cv.pdf" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
+          <a href="https://portafolio-juan-carlos-alvarado-ruc.vercel.app" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
             <FileText size={20} /> View portfolio
           </a>
           {/* TODO: Place the actual portafolio.pdf in the public folder and update href */}
