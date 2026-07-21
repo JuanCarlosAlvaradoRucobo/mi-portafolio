@@ -12,7 +12,7 @@ const CVSection = () => {
         <div className="cv-actions">
           {/* TODO: Place the actual cv.pdf in the public folder and update href */}
           <a href="/cv.pdf" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
-            <FileText size={20} /> View CV
+            <FileText size={20} /> View portfolio
           </a>
           {/* TODO: Place the actual portafolio.pdf in the public folder and update href */}
           <a href="/portafolio.pdf" className="btn btn-secondary" target="_blank" rel="noopener noreferrer">

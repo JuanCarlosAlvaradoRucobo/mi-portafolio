@@ -14,8 +14,8 @@ const Navbar = ({ theme, toggleTheme }) => {
         <div className="nav-links">
           <Link to="/">About</Link>
           <Link to="/projects">Projects</Link>
-          <a href="/">CV</a>
-          <a href="/#cv">Portfolio</a>
+          <a href="/#cv">CV</a>
+          <a href="https://portafolio-juan-carlos-alvarado-ruc.vercel.app">Portfolio</a>
         </div>
       </div>
     </nav>
