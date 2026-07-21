@@ -4,24 +4,24 @@ import { GitBranch, ExternalLink } from 'lucide-react';
 const projects = [
   {
     id: 1,
-    title: 'Project 1',
+    title: 'smarter-reserve-ai',
     description: 'A brief description of your first project. Built with React and FastAPI.',
     repoLink: '#', // TODO: Update with actual GitHub link
     demoLink: '#',
   },
   {
     id: 2,
-    title: 'Project 2',
+    title: 'Herramienta de Automatizacion',
     description: 'A brief description of the second project highlighting the technologies used and the problem it solves.',
-    repoLink: '#',
-    demoLink: '#',
+    repoLink: 'https://github.com/JuanCarlosAlvaradoRucobo/HerramientaAutomatica',
+    demoLink: 'https://herramienta-automatica.vercel.app/',
   },
   {
     id: 3,
-    title: 'Project 3',
+    title: 'Pen-assistant-vision',
     description: 'Another excellent web application developed to demonstrate frontend and backend skills.',
-    repoLink: '#',
-    demoLink: '#',
+    repoLink: 'https://github.com/JuanCarlosAlvaradoRucobo/pen-vision-assistant',
+    demoLink: 'https://github.com/JuanCarlosAlvaradoRucobo/pen-vision-assistant',
   },
   {
     id: 4,
