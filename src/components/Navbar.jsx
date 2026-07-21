@@ -14,7 +14,7 @@ const Navbar = ({ theme, toggleTheme }) => {
         <div className="nav-links">
           <Link to="/">About</Link>
           <Link to="/projects">Projects</Link>
-          <a href="/#cv">CV</a>
+          <a href="/">CV</a>
           <a href="/#cv">Portfolio</a>
         </div>
       </div>

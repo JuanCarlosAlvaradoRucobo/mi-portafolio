@@ -14,7 +14,7 @@ const Hero = () => {
           <Link to="/projects" className="btn btn-primary">
             View Projects
           </Link>
-          <a href="#" className="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/JuanCarlosAlvaradoRucobo" className="btn btn-secondary" target="_blank" rel="noopener noreferrer">
             <GitBranch size={20} /> GitHub
           </a>
         </div>
