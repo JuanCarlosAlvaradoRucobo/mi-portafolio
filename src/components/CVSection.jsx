@@ -15,7 +15,7 @@ const CVSection = () => {
             <FileText size={20} /> View portfolio
           </a>
           {/* TODO: Place the actual portafolio.pdf in the public folder and update href */}
-          <a href="/portafolio.pdf" className="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+          <a href="/Curriculum_Alvarado_Rucobo_Juan_Carlos.pdf" className="btn btn-secondary" target="_blank" rel="noopener noreferrer">
             <Download size={20} /> CV (PDF)
           </a>
         </div>
