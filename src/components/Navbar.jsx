@@ -14,7 +14,7 @@ const Navbar = ({ theme, toggleTheme }) => {
         <div className="nav-links">
           <Link to="/">About</Link>
           <Link to="/projects">Projects</Link>
-          <a href="C:\Users\ARCar\OneDrive\Documents\PaginaProfesional\public\Curriculum_Alvarado_Rucobo_Juan_Carlos.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="/Curriculum_Alvarado_Rucobo_Juan_Carlos.pdf" target="_blank" rel="noopener noreferrer">
             CV
           </a>
           <a href="https://portafolio-juan-carlos-alvarado-ruc.vercel.app" target="_blank" rel="noopener noreferrer">
